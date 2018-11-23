@@ -3,4 +3,6 @@ Git is free software.
 
 Git is good: how to use it
 
-Add a new sentence
+Add a new to test git diff wow
+
+
