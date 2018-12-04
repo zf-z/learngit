@@ -1,2 +1,3 @@
-# learngit
-how to learn it, we need to get use it
+a	b	c
+d	e	f
+c
